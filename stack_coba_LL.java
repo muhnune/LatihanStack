@@ -79,5 +79,7 @@ public class stack_coba_LL {
 
         System.out.println("Daftar Mahasiswa Kelas B : ");
         B.display();
+
+        // ini comment dibuat untuk cek apa bisa dipush ke github atau tidak.
     }
 }
